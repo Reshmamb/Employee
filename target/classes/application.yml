@@ -1,0 +1,28 @@
+management:
+  endpoints:
+    web:
+      base-path: /
+
+server:
+  servlet:
+    context-path: /demo-service
+  port: 9112
+
+
+spring:
+  datasource:
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://localhost:5432/Sample?currentSchema=demo
+    username: postgres
+    password: ikm
+  liquibase:
+    enabled: 'true'
+    drop-first: 'true'
+    change-log: classpath:/db/changelog/changelog-master.xml
+    parameters:
+      liquibase.changelogLockWaitTimeInMinutes: 20
+  jpa:
+    hibernate:
+      ddl-auto: none
+
+

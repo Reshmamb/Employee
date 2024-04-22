@@ -1,0 +1,9 @@
+/home/sysadmin/Documents/Employee/Employee/src/main/java/com/example/IKMTest/Common/Contract/Response.java
+/home/sysadmin/Documents/Employee/Employee/src/main/java/com/example/IKMTest/Contract/EmployeeRequest.java
+/home/sysadmin/Documents/Employee/Employee/src/main/java/com/example/IKMTest/Contract/EmployeeResponse.java
+/home/sysadmin/Documents/Employee/Employee/src/main/java/com/example/IKMTest/Config/ModelMapperConfig.java
+/home/sysadmin/Documents/Employee/Employee/src/main/java/com/example/IKMTest/IkmTestApplication.java
+/home/sysadmin/Documents/Employee/Employee/src/main/java/com/example/IKMTest/Service/EmployeeService.java
+/home/sysadmin/Documents/Employee/Employee/src/main/java/com/example/IKMTest/Controller/EmployeeController.java
+/home/sysadmin/Documents/Employee/Employee/src/main/java/com/example/IKMTest/Repository/EmployeeRepository.java
+/home/sysadmin/Documents/Employee/Employee/src/main/java/com/example/IKMTest/Model/Employee.java
